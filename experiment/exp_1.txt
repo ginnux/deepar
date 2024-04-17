@@ -1,0 +1,4 @@
+times:1
+epochs:10
+dataset:traffic_nips
+timestamp:2024-04-16-23-41-39
